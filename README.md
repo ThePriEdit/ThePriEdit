@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Priyanka 👋
 
-<!--
-**ThePriEdit/ThePriEdit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analyst | Data & Process Enthusiast | SQL · Excel · Power BI · Python**
 
-Here are some ideas to get you started:
+I’m a Business Analyst with experience in:
+- Analysing operations and financial data
+- Improving processes and workflows
+- Working with stakeholders in government, consulting and financial services
+- Turning messy data into clear insights and recommendations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I’m focusing on now
+
+- Building end-to-end business analysis projects:
+  - Sales & operations performance dashboard
+  - Customer support insights and process improvement
+  - SQL-based retail analytics case study
+- Strengthening my skills in SQL, Power BI and Python
+- Preparing for opportunities in the UK, Singapore, UAE, Canada and Japan
+
+### 📂 Projects
+
+- **Sales & Operations Dashboard** – Revenue, profit and product performance insights  
+- **Customer Support Analysis** – Complaint themes, CSAT, resolution times  
+- **Order-to-Cash Process Improvement** – AS-IS/TO-BE process mapping & KPIs  
+- **Retail SQL Case Study** – Top customers, high-margin products, regional trends  
+
+👉 Check out my BA portfolio repository here:  
+[Business Analyst Portfolio](https://github.com/ThePriEdit/business-analyst-portfolio)
+
+### 📫 Connect with me
+
+- LinkedIn: [https://www.linkedin.com/in/priyanka-more-a476021a6/]
+- Email: priyarmore88@gmail.com
