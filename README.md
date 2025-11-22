@@ -17,9 +17,6 @@ I’m a Business Analyst with experience in:
 - Strengthening my skills in SQL, Power BI and Python
 - Preparing for opportunities in the UK, Singapore, UAE, Canada and Japan 
 
-👉 Check out my BA portfolio repository here:  
-[Business Analyst Portfolio](https://github.com/ThePriEdit/business-analyst-portfolio)
-
 ### 📫 Connect with me
 
 - LinkedIn: [https://www.linkedin.com/in/priyanka-more-a476021a6/]
