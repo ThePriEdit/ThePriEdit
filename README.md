@@ -15,7 +15,7 @@ I’m a Business Analyst with experience in:
   - Customer support insights and process improvement
   - SQL-based retail analytics case study
 - Strengthening my skills in SQL, Power BI and Python
-- Preparing for opportunities in the UK, Singapore, UAE, Canada and Japan 
+- Preparing for opportunities in the UK, India, Singapore, UAE, Canada and Japan 
 
 ### 📫 Connect with me
 
