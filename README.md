@@ -74,8 +74,8 @@ I’m a Business Analyst who enjoys turning complex data into actionable insight
 
 ## 🌍 Open To Opportunities
 
-Open to roles in: **UK · India · UAE · Singapore · Canada · Japan**
-Interested in: Business Analyst | Data Analyst | Analytics Consultant roles
+* Open to roles in: **UK · India · UAE · Singapore · Canada · Japan**
+* Interested in: Business Analyst | Data Analyst | Analytics Consultant roles
 
 ---
 
