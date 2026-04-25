@@ -56,10 +56,10 @@ I’m a Business Analyst who enjoys turning complex data into actionable insight
 
 ## 🛠 Skills & Tools
 
-**Data & Analytics:** SQL · Power BI · Excel · Data Visualisation
-**Business Analysis:** Requirements Gathering · UAT · Stakeholder Management · Process Mapping
-**Domain Knowledge:** Financial Analysis · KPI Tracking · Risk & Compliance
-**Ways of Working:** Agile · Problem Solving · Data-Driven Decision Making
+* **Data & Analytics:** SQL · Power BI · Excel · Data Visualisation
+* **Business Analysis:** Requirements Gathering · UAT · Stakeholder Management · Process Mapping
+* **Domain Knowledge:** Financial Analysis · KPI Tracking · Risk & Compliance
+* **Ways of Working:** Agile · Problem Solving · Data-Driven Decision Making
 
 ---
 
