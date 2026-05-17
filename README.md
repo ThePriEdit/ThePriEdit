@@ -1,6 +1,6 @@
 ## Hi, I’m Priyanka 👋
 
-**Data-Driven Business Analyst | SQL · Power BI · Fintech · Analytics**
+**Business Analyst | SQL · Power BI · Fintech · Analytics**
 
 I’m a Business Analyst who enjoys turning complex data into actionable insights that improve business performance. With experience across government, consulting, and financial operations, I focus on solving real-world problems using data, dashboards, and structured analysis.
 
